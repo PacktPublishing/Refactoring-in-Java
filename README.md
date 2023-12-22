@@ -1,4 +1,4 @@
-# Refactoring-in-Java
+# Refactoring in Java
 
 <a href="https://www.packtpub.com/product/refactoring-in-java/9781805126638"> <img src="https://content.packt.com/B20912/cover_image_small.jpg" alt="Refactoring in Java" itemprop="url" height="256px" align="right">
 
@@ -19,7 +19,7 @@ This book covers the following exciting features:
 * Get to grips with the tools you need for thorough code examination
 * Apply best practices for a more efficient coding workflow
 
-If you feel this book is for you, get your [copy](https://amzn.eu/d/g2oaim3) today!
+If you feel this book is for you, get your [copy](https://a.co/d/frVNjyK) today!
 
 ## Instructions and Navigations
 
@@ -46,8 +46,8 @@ With the following software and hardware list you can run all code snippets pres
 | Maven 3.8 | Windows, MacOS, or Linux |
 
 ## Related products
-* Designing Hexagonal Architecture with Java [[Packt]](https://www.packtpub.com/product/designing-hexagonal-architecture-with-java-second-edition/9781837635115)   [[Amazon]](https://amzn.eu/d/3rkxz72)
-* Persistence Best Practices for Java Applications [[Packt]](https://www.packtpub.com/product/persistence-best-practices-for-java-applications/9781837631278) [[Amazon]](https://amzn.eu/d/f6oPFB9)
+* Designing Hexagonal Architecture with Java [[Packt]](https://www.packtpub.com/product/designing-hexagonal-architecture-with-java-second-edition/9781837635115)   [[Amazon]](https://a.co/d/f48GSTF)
+* Persistence Best Practices for Java Applications [[Packt]](https://www.packtpub.com/product/persistence-best-practices-for-java-applications/9781837631278) [[Amazon]](https://a.co/d/gQzYsFx)
 
 ## Get to Know the Author
 **Stefano Violetta**
