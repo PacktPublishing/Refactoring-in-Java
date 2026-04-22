@@ -1,5 +1,3 @@
-<p align='center'><a href='https://www.eventbrite.com/e/ship-production-pytorch-system-in-a-day-train-optimize-deploy-workshop-tickets-1983348934052?aff=GitHub'><img src='https://static.packt-cdn.com/assets/images/packt+events/workshop_ashish_github.png'/></a></p>
-
 # Refactoring in Java
 
 <a href="https://www.packtpub.com/product/refactoring-in-java/9781805126638"> <img src="https://content.packt.com/B20912/cover_image_small.jpg" alt="Refactoring in Java" itemprop="url" height="256px" align="right">
